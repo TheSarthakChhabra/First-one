@@ -1,6 +1,6 @@
 # First-one
 My first github repository.
 <br>
-Author - Sarthak Chhabra (iiitian)
+Author - Sarthak (iiitian)
 <br>
 checking changes
